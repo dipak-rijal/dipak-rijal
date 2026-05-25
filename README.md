@@ -85,7 +85,7 @@ No login. No paywall. No newsletter wall.
 
 ### 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipakrijal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipak-rijal)
 [![Website](https://img.shields.io/badge/rijal.co.nz-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.rijal.co.nz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipak.rijal5@gmail.com)
 
